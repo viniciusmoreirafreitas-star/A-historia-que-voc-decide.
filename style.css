@@ -1,0 +1,11 @@
+:root{
+    /* CSS HEX */
+--black: #000000ff;
+--oxford-blue: #14213dff;
+--platinum: #e5e5e5ff;
+--white: #ffffffff;
+}
+
+body{
+    background-color: var(--oxford-blue);
+}
